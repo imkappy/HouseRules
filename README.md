@@ -8,3 +8,8 @@ Gamemodes currently being developed and/or planned:
   - Poker
   - Blackjack
   - Euchre
+
+Future features:
+  - User profile (account level, experience, win/loss stat)
+  - Money system (in-game & paid)
+  - Leaderboard
